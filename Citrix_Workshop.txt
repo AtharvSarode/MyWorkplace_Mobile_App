@@ -1,0 +1,232 @@
+1.{	Category : "Citrix Workspace"
+  	Question :  "how to install Citrix Workspace on your personal Mac computer. "
+	Answer : " 1. Go to http://myworkspace.jpmchase.com/ and log in with your desktop credentials. 
+		2. Click the Citrix License Agreement checkbox. 
+		3. Select Download. 
+		4. After the download is complete, open the file. 
+		5. Double click Install Citrix Workspace. 
+		6. Install Citrix Workspace. 
+		7. Enter your MAC ID and password to install the software onto your computer. 
+		8. Continue with all steps until completion. 
+
+		Alternative installation option: 
+		1. Go to https://www.citrix.com/en-gb/ > Products > Download Citrix Workspace App > Download. 
+		2. Once the installation has finished, restart the computer and open Citrix. 
+		3. When prompted to enter your work email or server address, enter https://myworkspace.jpmchase.com. 
+		4. Select Next and enter your login credentials and RSA token as requested. 
+		For directions on uninstalling Citrix Workspace App, view Uninstall Citrix Workspace for Mac. 
+		For directions on uninstalling Citrix Receiver for Mac, view Uninstall Citrix Receiver for Mac." }
+
+2.{
+	Category : "Citrix Workspace"
+	question : "how to install Citrix Workspace on your Windows device ?"
+	Answer   : "1. Go to https://myworkspace.jpmchase.com/. 
+		Note: Google Chrome and Mozilla Firefox browsers are recommended. 
+		2. Click the Citrix License Agreement checkbox. 
+		3. Select Download. 
+		4. Open the .exe file that downloads to your computer. 
+		5. Complete the on-screen installation process. 
+
+		If you run into any issues while installing Citrix Workspace with the above steps, follow this guide: 
+		1. Go to http://receiver.citrix.com/. 
+		2. Click Download for Windows. 
+		3. Select Download Citrix Workspace app for Windows. 
+		4. Open the .exe file that downloads to your computer. 
+		5. Complete the installation process and select Finish.
+
+		Alternative installation option: 
+		1. Go to https://www.citrix.com/en-gb/ > Products > Download Citrix Workspace App > Download. 2. Once the installation has finished, restart the computer and open Citrix. 
+		3. When prompted to enter your work email or server address, enter https://myworkspace.jpmchase.com. 4. Click Next and enter your login credentials and RSA token as requested. 
+		You're now able to access myWorkSpace remotely by following these steps, Access myWorkSpace from Chrome "
+}
+
+3.{
+	Category : "Citrix Workspace"
+	question : "how to display myWorkSpace on two monitors using Windows. ?"
+	Answer   : "1. Log in to myworkspace.jpmchase.com. 
+2. Select the Citrix Toolbar icon at the top of your screen. 
+To see the Citrix Toolbar, you must use the full version of Citrix.  
+
+3. Drag the Window icon to the middle of your two displays so half is on one screen and half is on the other. 
+
+4. Select the Citrix Toolbar icon and choose Full-screen to maximize both screens. 
+
+Special Note: 
+Your screen resolution must be set the same for all screens. To change your screen resolution manually:  
+1. Right click on your personal desktop (not the virtual desktop), and select Display settings.
+
+2. Select Extend these displays from the Multiple displays drop down menu."
+}
+
+4.{
+	Category : "Citrix Workspace"
+	question : "how to install the RSA SecurID token app on your Apple device.  ?"
+	Answer   : "For Android Devices: Install the RSA SecurID App on Your Android Device. 
+1. Go to the App Store on your device. 
+2. Search for SecurID. 
+3. Select Get.Note: If prompted, enter your Apple ID credentials. 
+4. The SecurID app will be installed on your device. 
+Once the application has been installed, follow the instructions in Request a New Token Using myToken Portal to request and activate your"
+}
+
+5.{
+	Category : "Citrix Workspace"
+	question : "How to set up multiple monitors on your Mac computer.?"
+	Answer   : "1. Select the Apple Menu and choose System Preferences… 
+
+2. Select Mission Control. 
+3. Turn off Displays have separate Spaces by removing the checkmark. 
+Note: You will have to log out and log in for the changes to take effect.  
+4. Go to myworkspace.jpmchase.com and launch your session as usual.
+5. Select View and turn on Use All Displays In Full Screen. 
+6. Select the green maximize button in the upper left corner of your Citrix window to use all monitors."
+}
+
+6.{
+	Category : "Citrix Workspace"
+	question : "Remote Connect Issues for Windows 10 Corporate Laptops."
+	Answer   : "Follow the instructions below to properly log into Remote Connect in order to fix any issues within the application on a Windows 10 corporate laptop. 
+1. Select the upward-facing caret in the bottom right corner, then select the Cisco AnyConnect icon from the shortcut menu. 
+The following window will pop: 
+
+NOTE: If you are connecting using an Ethernet cable, you will need to launch Remote Connect, not Cisco AnyConnect. See Step 4 for launching Remote Connect 
+2.  Once you have launched Cisco AnyConnect, select the wireless network that you want to access, then select Connect. 
+3. Enter your Wi-Fi password in the Key field, then select OK.
+
+4. Once you are connected to Wi-Fi, launch the Start menu, then select Remote Connect (lock icon). 
+5. In the NetScaler Gateway window, select Always to initiate the endpoint analysis scan. 
+6. In the Remote Connect window, enter your login credentials. Select Log On once complete. 
+a. Enter your SID in the Username field 
+b. SecurID 
+I. Soft Token: Token code 
+II. Hard Token: PIN + Token code 
+NOTE: Before loading any application ensure you click on Map Network Drive from the start "
+}
+
+7.{
+	Category : "Citrix Workspace"
+	question : "Resolve Citrix Issues When Connecting Remotely From a Personal Computer"
+	Answer   : "This article will help you resolve some of the common issues encountered when connecting remotely from a personal computer and will provide
+instructions on how to uninstall Citrix.
+Each set of instructions should be followed in order. and tested after each step to see if this remediates the issues you are experiencing.
+Note: Ensure that your system has all latest updates installed, including the latest operating system and latest versions of browsers. Citrix
+Workspace should be downloaded from myworkspace.jpmchase.com.
+
+Help connecting to http://myworkspace.jpmchase.com
+Make sure you can access other internet sites. If you can’t, try powering off your home internet router and after a couple of minutes power it
+back on.
+If you are going to create a favorite or bookmark in your browser, make sure the address is "http://myworkspace.jpmchase.com".
+If you are unable to browse to http://myworkspace.jpmchase.com and see the login page, clear your browser cookies and cache.
+Try another internet browser like Chrome, Firefox or Microsoft Edge.
+Try restarting your personal computer.
+Help with frequent disconnections
+Make sure you are have Citrix Workspace installed and are using this app when remotely connecting. For more information, review
+MyWorkSpace FAQs
+Try powering off your home internet router and after a couple of minutes power it back on.
+Restart your personal computer.
+“Citrix Connection Interrupted” message pop ups
+1. Try powering off your home internet router and after a couple of minutes power it back on.
+2. Uninstall and reinstall your Citrix Workspace app following the below steps.
+Uninstall Citrix
+For Mac:
+1. a. Locate the application in the Finder.
+b. Drag the application to the Trash, or select the app and choose File > Move to Trash.
+c. If you are asked for a user name and password, enter the name and password of an administrator account on your personal Mac.
+d. To delete the app, choose Finder > Empty Trash.
+1.
+For Windows:
+1. a. Right-click the Start button.
+b. Click Control Panel.
+c. Go to Programs and Features (if your Control Panel is in Category view, go to Uninstall a Program).
+d. Look for Citrix Workspace, click it to select it, and then click Uninstall.
+Reinstall Citrix For Mac:
+Install Citrix Workspace on a Personal Mac
+For Windows:
+Install Citrix Workspace on a Personal Windows Device"
+}
+
+8.{
+	Category : "Citrix Workspace"
+	question : "how to install the RSA SecurID App on your Android device ?"
+	Answer   : "For iOS (Apple) Devices: Install the RSA SecurID app on your iOS (Apple) Device.
+Follow these steps:
+1. Go to the Google Play store on your mobile device
+2. Type SecurID in the search bar
+Note: To be sure you are uploading the correct app, type pub:RSA Security on the search bar, you'll only see the apps uploaded by RSA.
+3. Click on the SecurID option with the Cloud Icon
+4. Select Install
+5. The SecurID app has been installed on your mobile device
+Note: The app may request access to take pictures in order to scan the QR code to import the token, please allow.
+After installing the app, follow the steps on Request a New Token Using myToken Portal in order to deploy the token to the app."
+}
+
+9.{
+	Category : "Citrix Workspace"
+	question : "Reset a SecurID PIN with Manager's assistance"
+	Answer   : "This article will provide the steps managers need to follow to generate a one-time passcode using the Verbal Access Code section in myToken Portal.
+1. Click this link to open myToken Portal page: go/mytoken if you are connected to JPMC network. If you are not connected to JPMC, please type
+http://mytoken.jpmchase.com.
+2. Select Manager.
+3. On the next screen, please enter the Employee's Standard ID (SID).
+4. Check "I attest that I am speaking with employee through video call".
+Note: If you are unable to verify the employee via video camera you are not allowed, under any circumstances, to Generate an Access Code.
+5. Submit and provide the Verbal Access Code to the employee over the Video Call."
+}
+
+10.{
+	Category : "Citrix Workspace"
+	question : "Request a SecurID Soft Token with Manager's Assistance"
+	Answer   : "This article provides the steps for employees to activate their token.
+Employee Instructions
+1. You'll need the verbal access code (provided by your manager) and a mobile access code. You'll receive a text message to the number on your
+profile with the mobile access code.
+Note: In order to receive the mobile access code, you must have your current cell number registered in your employee profile. Your personal
+information can be updated at me.jpmchase.com.
+2. To request a new token, go to https://mytoken.jpmchase.com/mytoken/soft-token-request.
+3. Enter your information and select Submit.
+4. When you see Your soft token is now ready! open the SecurID app on your mobile device.
+5. Choose Get Started and then select Scan QR Code.
+6. Activate your new token by scanning the QR code from your mobile device."
+}
+
+11.{
+	Category : "Citrix Workspace"
+	question : "Install and Configure the RSA SecurID Token App on My Corporate Owned Device"
+	Answer   : "This article will explain the steps for installing and configuring the RSA SecurID Software token application on your Corporate Owned Device. First,
+you'll need to navigate to another article to see the instructions to get a new token. Once you get to the point in the process where you have a QR
+code available to scan, you can return to this article and follow the instructions for a Corporate Owned Device.
+If you already have an existing token on another device follow the instructions on how to Replace your Existing Soft Token.
+If this is first time you are setting up the token please follow the steps in Request a SecurID Soft Token with Manager's Assistance.
+When you get to the point where you’ve generated a QR code, come back to this article and follow the steps below:
+1. Open the Hub application on your Corporate Owned Device.
+2. Scroll down to RSA SecurID Software Token App > Install.
+3. Once the application has been installed, tap Token from list of installed applications to open.
+4. Accept the License Agreement.
+5. Click on the import symbol (+ sign) and select Scan QR Code or Enter Link Option.
+Your RSA SecurID Token application is now ready to use."
+}
+
+12.{
+	Category : "Citrix Workspace"
+	question : "Reset My Password from Outside the JPMC Network with Manage Password"
+	Answer   : "All current or former JPMC employees can reset their locked, expired or forgotten Single Sign-On (SSO), Desktop, (Active Directory) and Janus
+passwords from outside the JPMC network by following the steps below.
+Note:
+Employee’s home or cell number must be listed in me@jpmc to successfully receive an access code for verification purposes
+Must know answers to your security questions
+Must have the token passcode from your hard or soft token (applicable to current employees and/or contractors only)
+STEPS:
+1. Access Manage Password: https://password.jpmchase.com/pce/otp
+2. Validate your identity by entering your Standard ID (SID) and Phone Number, then select to receive an access code on your phone
+through SMS or Voice followed by Next.
+3. An 8-digit access code will be delivered to the registered phone number. Enter this Access Code and choose Next.
+Note: The access code is valid for 10 minutes. After that time, a new access code must be requested.
+4. Enter the answers to your security questions to further validate your identity. Answer 3 out of 4 questions and choose Next.
+5. Review the Password Rules then, type in and confirm your New Password. Once that is complete, Submit.
+6. You will also be prompted to key in your token passcode.
+7. The screen below will appear once the reset is complete. Please wait 15 minutes for this to take effect as it may take some time to update
+across various systems."
+}
+
+
+

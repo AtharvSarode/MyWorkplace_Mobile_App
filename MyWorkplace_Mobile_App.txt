@@ -1,0 +1,63 @@
+1. {Category : "MyWorkplace Mobile App"
+   Question : "GS: Why don't I see updated amenity content?"
+   Answer   : "To update amenity content in the MyWorkplace Mobile app, try this:
+		1. Tap the menu in the upper left corner (three bars)
+		2. Select "Settings"
+		3. Select "Clear Cache"
+		4. Quit out of the app
+		5. Click back into the app and login to refresh content."}
+
+2. {Category : "MyWorkplace Mobile App"
+   Question : "GS: What's the difference between the MyWorkplace desktop / web app and the mobile app?"
+   Answer   : "The MyWorkplace desktop application is available to all users via go/myworkplace, and contains numerous workplace-related help resources.
+
+		The MyWorkplace Mobile app is available in the Apple AppStore and Google Play Store, and can be used on a personal or JPMC-owned device (iPhone or Android). The mobile app includes the mobile badge capability, seat reservation, and other helpful resources.
+
+		Link 1:
+		https://gssintake.gaiacloud.jpmchase.net/askcao"}
+
+3. {Category : "MyWorkplace Mobile App"
+   Question : "GS: How much space on my phone does the app use?"
+   Answer   : "The app is approximately 100 MB, including all the necessary data downloaded to build maps."}
+
+4. {Category : "MyWorkplace Mobile App"
+   Question : "GS: Is my location being tracked and shared outside of the app?"
+   Answer   : "User locations are not tracked nor shared outside of the application. Device location is used to ensure the app shows location information most useful to the user at the time the app is launched. Data is not be stored, saved or used for any other purpose."}
+
+5. {Category : "MyWorkplace Mobile App"
+   Question : "GS: Why do I have to login via SSO so often?"
+   Answer   : "With biometric authentication enabled, login is only required every 30 days. If biometric authentication is not enabled and the user is not actively using the app, login with desktop credentials is required every 15 minutes."}
+
+6. {Category : "MyWorkplace Mobile App"
+   Question : "GRE: Book a meeting Room (button)"
+   Answer   : "To book a meeting room:
+		1. Log into the MyWorkplace Mobile app
+		2. Click "Book A Room"
+		3. Click "Rooms"
+		4. To view rooms currently available, click "Available Now" (and skip to steps 8-10)
+		5. To view rooms available later, click "Date & Time"
+		6. Select the date, duration and time you wish to book the room
+		7. Click "Find a Room" for available rooms with the selected criteria to show in the List View and Map views
+		8. Choose the meeting room you'd like to reserve; reservation details and the option to book the room will appear
+		9. Click "Book"
+		10. A confirmation screen will appear with details, and the option to "Cancel Booking" or select "Okay"
+		11. Confirmed bookings will appear under "My Bookings". "}
+
+7. {Category : "MyWorkplace Mobile App"
+   Question : "GS: Update the App (button)"
+   Answer   : "The MyWorkplace app will update based on your device's settings. If you have automatic updates turned on, the app will update itself. If you manually update your apps, you can update the MyWorkplace app via your native app store."}
+
+8. {Category : "MyWorkplace Mobile App" 
+   Question : "Update the App (button)"
+   Answer   : "The MyWorkplace app will update based on your device's settings. If you have automatic updates turned on, the app will update itself. If you manually update your apps, you can update the MyWorkplace app via your native app store."}
+
+8. {Category : "MyWorkplace Mobile App" 
+   Question : "Book a Seat (button)"
+   Answer   : "View this article for instructions on reserving a desk in the office.
+
+		I have added a video if you would like more details.
+
+		Link 1:
+		https://jpmorganchase.service-now.com/myworkplace?id=kb_article_view&sysparm_article=KB0196155
+
+		[^Bookit Video Demo - How to Reserve a Seat.wmv]" }
